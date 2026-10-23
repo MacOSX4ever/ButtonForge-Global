@@ -29,9 +29,7 @@ Here's a toggle macro:
 /click [nomod,button:1] BFToolbarToggle
 /click [mod,button:1][button:2] BFGToolbarToggle
 
-and here's the bash script. It does NOT modify the original, and they work together.
-https://drive.google.com/file/d/10TlEnkry6szFnlzXvQVp49zItdD7vzH4/view?usp=sharing
-
+This bash script does NOT modify the original, and they work together.
 
 Since I made this to copy the original, it should allow you to run it again, after an update, to re-create the new golobal version.
 
@@ -43,5 +41,6 @@ I wanted to make this for my own use, and decided to share, because it was a LOT
 
 
 just in case you can't run the script on Windows, here's a link to the created version:
-https://drive.google.com/file/d/1tZqhz1m5zlie40XpbISKRWfIyoJgGirP/view?usp=sharing
+ButtonForgeGlobal.zip
+
 # <LAST_SAVED> 20261023 00:42:14
