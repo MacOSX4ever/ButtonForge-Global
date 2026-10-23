@@ -6,23 +6,18 @@ Updated and tested with ButtonForge 1.3.4.2
 
 I updated my script that creates "ButtonForge Global" tested and working with 1.3.4.2
 Here's the creator script, that makes the new "ButtonForge Global" addon folder:
-https://drive.google.com/file/d/1anr2vvrDLZojlxbZ_aYWtulAOLkEkeAo/view?usp=sharing
 
-and here's an output of the created folder for those that aren't able to run it in bash:
-https://drive.google.com/file/d/1gasy83XyKTe2BZ1NmFI6dB1F0wn6oHbh/view?usp=sharing
-
+If you cannot run the script in bash, I will include the zip file of the addon.
 
 2026-02-13
 I found a conflict when trying to set keybinds between the 2 versions, and corrected it.
 Both links below are updated to new files.
-
 
 This is a branch of ButtonForge originally created by Alternator
 https://www.curseforge.com/wow/addons/button-forge
 
 Until the addon is updated to allow global palettes, I created this script to do it.
 Runs in bash, under macOS, but should run in Windows under wsl or git bash. I cannot test for windows now.
-
 
 ## Instructions
 run the script, and it creates another addon folder ButtonForgeGlobal
@@ -49,3 +44,4 @@ I wanted to make this for my own use, and decided to share, because it was a LOT
 
 just in case you can't run the script on Windows, here's a link to the created version:
 https://drive.google.com/file/d/1tZqhz1m5zlie40XpbISKRWfIyoJgGirP/view?usp=sharing
+# <LAST_SAVED> 20261023 00:42:14
